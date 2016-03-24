@@ -32,6 +32,6 @@ export default class Counter extends Component {
 }
 
 Counter.propTypes = {
-  counter: PropTypes.number.isRequired,
-  actions: PropTypes.object.isRequired
+  // counter: PropTypes.number.isRequired,
+  // actions: PropTypes.object.isRequired
 };

@@ -4,5 +4,9 @@
     "comma-dangle": 0,
     "react/jsx-no-bind": 0,
     "semi": 0,
+    "react/prop-types": 0,
+  },
+  "globals": {
+    "$": false
   }
 }
